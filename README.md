@@ -17,3 +17,7 @@
 
 1. [Graph Representation Learning (2021)](GNN/Books/Graph-Representation-Learning.zip)  
 2. [Synthesis Lectures on Artifical Intelligence and Machine Learning (2020)](GNN/Books/Synthesis-Lectures-on-Artificial-Intelligence-2020.zip)  
+
+#### Online Courses:
+
+1. [Graph Neural Networks (Pennsylvania - Alejandro Ribeiro)](https://gnn.seas.upenn.edu/lectures/)  
